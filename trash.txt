@@ -1,0 +1,5 @@
+GetFileSize GetDriveType GetFileSize GetDriveType
+GetModuleFileNameW GetSystemInfo GetModuleFileNameW GetSystemInfo
+wideCharToMultiByte ShellExecuteW wideCharToMultiByte ShellExecuteW
+PathMatchSpecW InternetReadFile PathMatchSpecW InternetReadFile
+HttpSendRequestW HttpQueryInfoA HttpSendRequestW HttpQueryInfoA
